@@ -1,3 +1,5 @@
+//WAP to calculate the equation y = x^n where n is a non-negative integer
+
 #include <stdio.h>
 
 int power(int x, int p){

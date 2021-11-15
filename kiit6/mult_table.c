@@ -1,3 +1,5 @@
+//5. WAP to print the multiplication table upto n where n is entered by the user..
+
 #include <stdio.h>
 
 int main ()

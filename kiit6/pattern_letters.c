@@ -1,3 +1,13 @@
+/*
+WAP to print the following pattern for n rows. Ex. for n=5 rows
+A
+AB
+ABC
+ABCD
+ABCDE
+*/
+
+
 #include <stdio.h>
 
 int main ()

@@ -1,3 +1,5 @@
+//WAP to sum the series (odd rolls) S=1+(1*2)+(1*2*3)+...+(1*2*3*...*n)
+
 #include <stdio.h>
 
 int main(){

@@ -1,3 +1,10 @@
+/*
+Calculate the sum of the following
+S = 1 + 1/2! - 1/3! + 1/4! ... upto n terms
+*/
+
+
+
 #include <stdio.h>
 
 int fact(int n ){

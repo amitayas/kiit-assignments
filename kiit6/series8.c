@@ -1,3 +1,8 @@
+/*
+Calculate the sum of the following
+S = 1 + x^2/2! + x^3/3! + .... (upto n terms)
+*/
+
 #include <stdio.h>
 
 int fact(int n ){
