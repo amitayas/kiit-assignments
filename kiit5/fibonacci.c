@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 int main(){
-    int n = 0;
+    int n711 = 0;
     printf("How many fibo nums to generate? ");
-    scanf("%d", &n);
+    scanf("%d", &n711);
 
     int timinus1 = -1;
     int ti = 1;
@@ -16,7 +16,7 @@ int main(){
         timinus1 = tmp;
         printf("%d\t", ti);
         count++;
-        if (count>n) {
+        if (count>n711) {
             break;
         }
     }

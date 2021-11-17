@@ -1,13 +1,13 @@
 #include <stdio.h>
 
 int main(){
-    int n = 1;
+    int n711 = 1;
 
     while (1) {
-        if (n>100) {
+        if (n711>100) {
             break;
         }
-        printf("%d\n",n);
-        n++;
+        printf("%d\t",n711);
+        n711++;
     }
 }

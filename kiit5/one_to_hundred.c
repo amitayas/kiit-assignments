@@ -1,13 +1,13 @@
 #include <stdio.h>
 
 int main(){
-    int n = 1;
+    int n711 = 1;
 
 body:
-    printf("%d \n", n);
+    printf("%d \t", n711);
 
-if (n<100) {
-    n++;
-    goto body;
-}
+    if (n711<100) {
+        n711++;
+        goto body;
+    }
 }

@@ -1,19 +1,19 @@
 #include<stdio.h>
 
 int main(){
-    int n=0;
+    int n711=0;
     
     printf("Enter a number : ");
-    scanf("%d", &n);
+    scanf("%d", &n711);
     
 
-    int s = 0;
-    int cp = n;
+    int s711 = 0;
+    int cp711 = n711;
 
-    while(cp>0){
-        s = s + cp%10;
-        cp = cp/10;
+    while(cp711>0){
+        s711 = s711 + cp711%10;
+        cp711 = cp711/10;
     }
 
-    printf("Sum of digits : %d\n", s);
+    printf("Sum of digits : %d\n", s711);
 }
