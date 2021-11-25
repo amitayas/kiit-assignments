@@ -1,3 +1,5 @@
+/*WAP to read the elements of two 3 X 3 matrixes and find their difference and display it.*/
+
 #include <stdio.h>
 
 int main(){

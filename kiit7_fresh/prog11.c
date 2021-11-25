@@ -1,3 +1,5 @@
+/*Program to find the second largest/smallest element of an array.*/
+
 #include <stdio.h>
 
 int main(){

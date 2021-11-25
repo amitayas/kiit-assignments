@@ -1,3 +1,6 @@
+/*WAP to read n numbers and store it in an array and search for a given numbers as per the
+users choice. If the number is present print “PRESENT” else print a suitable message.*/
+
 #include <stdio.h>
 
 int main(){
@@ -43,6 +46,7 @@ int main(){
         printf("Number not found!\n");
     }
     else {
+        printf("PRESENT\n");
         printf("Number found at position : %d(starting from 1)\n", (pos+1));
     }
 }

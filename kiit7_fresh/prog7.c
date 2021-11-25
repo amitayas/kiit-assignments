@@ -1,3 +1,6 @@
+/*WAP to read the elements of 5 X 5 matrix and print the sum of the diagonal elements of
+the matrix.*/
+
 #include <stdio.h>
 
 int main(){

@@ -1,3 +1,5 @@
+/*WAP to find out the sum of the row and column elements stored in a matrix.*/
+
 #include <stdio.h>
 
 int main(){

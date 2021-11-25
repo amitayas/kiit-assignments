@@ -1,3 +1,5 @@
+/*WAP to swap the pair of elements starting from beginning.*/
+
 #include <stdio.h>
 
 int main(){

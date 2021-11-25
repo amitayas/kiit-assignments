@@ -1,3 +1,5 @@
+/*WAP to read the elements of 3 X 3 matrix and print the lower triangular matrix.*/
+
 #include <stdio.h>
 
 int main(){

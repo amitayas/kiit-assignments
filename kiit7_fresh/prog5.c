@@ -1,3 +1,4 @@
+/*Program to copy an array to another array*/
 #include <stdio.h>
 
 int main(){
@@ -24,7 +25,7 @@ int main(){
     for ( i = 0; i < length; i++) {
         printf("%d\t", arr[i]);
     }
-    printf("\n");
+    printf("\n\n");
     
     //Copy array:-
     int cp[length];
@@ -32,7 +33,7 @@ int main(){
         cp[i]=arr[i];
     }
 
-    printf("Copied Array :-\n");
+    printf("Copied Array :-\n\n");
     for ( i = 0; i < length; i++) {
         printf("%d\t", cp[i]);
     }

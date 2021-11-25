@@ -1,3 +1,6 @@
+/*WAP to find out the largest even/odd integer stored in the array of n integers where n will
+be input by the user.*/
+
 #include <stdio.h>
 
 int main(){

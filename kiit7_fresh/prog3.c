@@ -1,3 +1,6 @@
+/*WAP to arrange the numbers stored in the array so that it will display first all odd
+numbers, then even numbers.*/
+
 #include <stdio.h>
 
 int main(){

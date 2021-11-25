@@ -1,3 +1,5 @@
+/*WAP to store 10 numbers into an array. Find the sum/product of the even numbers and product of the odd numbers and print it.*/
+
 #include <stdio.h>
 
 int main(){
@@ -18,7 +20,7 @@ int main(){
         printf("%d \t", *(arr+i));
     }
 
-    printf("\n");
+    printf("\n\n");
 
     int sum_even = 0;
     int prod_even = 1;

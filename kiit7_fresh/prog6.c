@@ -1,3 +1,6 @@
+/*WAP to read the elements of 3 X 3 matrix and change all even numbers to 1 and odd
+numbers to 0.*/
+
 #include <stdio.h>
 
 int main(){
