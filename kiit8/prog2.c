@@ -1,3 +1,5 @@
+/*WAP to Store List of Prime numbers in an array.*/
+
 #include <stdio.h>
 
 int is_prime(int n){

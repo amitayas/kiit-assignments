@@ -1,3 +1,4 @@
+/*WAP to remove duplicates in an array.*/
 #include <stdio.h>
 
 int main(){

@@ -1,3 +1,5 @@
+/*WAP to test whether a string is palindrome or not.*/
+
 #include <stdio.h>
 
 int string_length(char* str){
@@ -24,6 +26,9 @@ int main(){
     printf("Enter string to check for palindrome : ");
     scanf("%[^\n]s", s);
     if (is_palindrome(s)) {
-        printf("YES!\n");
+        printf("YES! %s is a palindrome!\n", s);
+    }
+    else {
+        printf("NO! %s is not a palindrome!\n", s);
     }
 }

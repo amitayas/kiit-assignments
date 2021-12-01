@@ -1,3 +1,5 @@
+/*WAP to concatenate two strings.*/
+
 #include <stdio.h>
 
 int length_of(char *s){

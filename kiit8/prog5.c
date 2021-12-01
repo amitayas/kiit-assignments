@@ -1,3 +1,5 @@
+/*WAP to Conversion of decimal number to Binary.*/
+
 #include <stdio.h>
 
 int add_zeros(int n, int z){

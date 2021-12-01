@@ -1,3 +1,6 @@
+/*WAP to Check whether the number is EVEN or ODD, without using any arithmetic or
+relational operators*/
+
 #include <stdio.h>
 
 int main(){
