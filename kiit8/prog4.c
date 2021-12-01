@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h>
+
 int length_of(char *s){
     int i = 0;
     while (1) {
@@ -30,5 +30,5 @@ int main(){
         s[i+j]=s2[j];
     }
     s[l1+l2]='\0';
-    printf("%s\n", s);
+    printf("Concatenated word : %s\n", s);
 }
