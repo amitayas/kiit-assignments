@@ -24,7 +24,7 @@ int main(){
         if (u>0 && v>u) {
             break;
         }
-        printf("Enter a proper range in positive integers : ");
+        printf("Enter a proper range in positive integers!\n");
     }
     
 
